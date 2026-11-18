@@ -1,5 +1,5 @@
 {
-    "version": "0.4.10",
+    "version": "0.4.11",
     "description": "GUI for zapret (Flowseal bundle): DPI bypass service control, strategy picker, local Telegram proxy, network diagnostics. Interface in Russian.",
     "homepage": "https://github.com/igorxmel/ZapretXmel",
     "license": "GPL-3.0-only",
@@ -7,8 +7,8 @@
         "ZapretXmel asks for administrator rights: WinDivert needs them.",
         "Update it with 'scoop update zapretxmel'. The built-in updater is turned off for Scoop installs."
     ],
-    "url": "https://github.com/igorxmel/ZapretXmel/releases/download/v0.4.10/ZapretXmel-Windows-Portable.exe#/ZapretXmel.exe",
-    "hash": "42a1e131ebc134befb5c312d4278de2f6804f1c903527e72276238d86230dc21",
+    "url": "https://github.com/igorxmel/ZapretXmel/releases/download/v0.4.11/ZapretXmel-Windows-Portable.exe#/ZapretXmel.exe",
+    "hash": "fbf4be1071e5f07ca0067ff0664a208ac82094aa55fcaba6b2c404c232e5a648",
     "bin": "ZapretXmel.exe",
     "shortcuts": [
         [
